@@ -1,6 +1,11 @@
-## Hej there <img src="https://raw.githubusercontent.com/akinmetin/akinmetin/master/wave.gif" width="40px">
+## Hej <img src="https://raw.githubusercontent.com/akinmetin/akinmetin/master/wave.gif" width="40px">
 
-🔭 I’m currently developing on DoH project
+- 🔭 I’m currently working on a full-stack web application
+- 🌱 I’m currently learning React.js and JavaScript
+- 💬 Ask me about backend development, Linux (especially CentOS) and Nginx❤
+- 📫 How to reach me: [via Mail](mailto:admin@metinakin.net)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I drink my ☕ with 🍫
 
 <!--
 **akinmetin/akinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +43,5 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-metinakin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
+[![Instagram Badge](https://img.shields.io/badge/-m3tnkn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/m3tnkn/)](https://www.instagram.com/m3tnkn/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=akinmetin.akinmetin)
