@@ -1,5 +1,7 @@
 ## Hej there <img src="https://raw.githubusercontent.com/akinmetin/akinmetin/master/wave.gif" width="40px">
 
+🔭 I’m currently developing on DoH project
+
 <!--
 **akinmetin/akinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +38,4 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-metinakin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=akinmetin.akinmetin)
