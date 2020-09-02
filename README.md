@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinmetin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinmetin)
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
