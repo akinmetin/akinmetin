@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## ⚡ Good Stuff
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-bae7ff?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-91d5ff?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
