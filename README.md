@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-metinakin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
 [![Instagram Badge](https://img.shields.io/badge/-m3tnkn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/m3tnkn/)](https://www.instagram.com/m3tnkn/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=akinmetin.akinmetin)
