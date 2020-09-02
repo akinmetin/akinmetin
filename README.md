@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a full-stack web application
 - 🌱 I’m currently learning React.js and JavaScript
 - 💬 Ask me about backend development, Linux (especially CentOS) and Nginx❤
-- 📫 How to reach me: [with e-mail](mailto:admin@metinakin.net)
+- 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I drink my ☕ with 🍫
 
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+### 🤝 Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-metinakin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
 [![Instagram Badge](https://img.shields.io/badge/-m3tnkn-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/m3tnkn/)](https://www.instagram.com/m3tnkn/)
