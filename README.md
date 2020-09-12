@@ -1,6 +1,6 @@
 ## Hej 👋
 
-- 🔭 I’m currently working on a full-stack web application
+- 🔭 I’m currently developing a full-stack web application
 - 🌱 I’m currently learning React.js and JavaScript
 - 💬 Ask me about backend development, Linux (especially CentOS) and Nginx❤
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
