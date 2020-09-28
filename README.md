@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing a full-stack web application
 - 🌱 I’m currently learning React.js and JavaScript
-- 💬 Ask me about backend development, Linux (especially CentOS) and Nginx❤
+- 💬 Ask me about Linux (especially CentOS) and Nginx❤
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I drink my ☕ with 🍫
