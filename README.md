@@ -1,7 +1,7 @@
 ## Hej 👋
 
-- 🔭 I’m currently developing a full-stack web application
-- 🌱 I’m currently learning Flask API and Json Web Token Authentication
+- 🔭 I’m currently developing a Quart API project
+- 🌱 I’m currently learning more about API development
 - 💬 Ask me about Linux (especially CentOS) and Nginx❤
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
 - 😄 Pronouns: He/Him
