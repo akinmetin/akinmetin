@@ -1,4 +1,4 @@
-## Hej 👋
+## Hey 👋
 
 - 🔭 I’m currently developing a Quart API project
 - 🌱 I’m currently learning more about API development
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 github profile readme examples
 -->
 
-## ⚡ Good Stuff
+## ⚡ Cool Stuff
 
 ![Python](https://img.shields.io/badge/-Python-ffc53d?style=flat-square&logo=Python)
 ![Docker](https://img.shields.io/badge/-Docker-69c0ff?style=flat-square&logo=docker)
