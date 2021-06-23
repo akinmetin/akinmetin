@@ -2,9 +2,7 @@
 
 <!--- 🔭 I’m currently developing an API project
 🌱 I’m currently learning more about AWS Lambda & API Gateway -->
-- 💬 Ask me about Linux (especially CentOS) and Nginx❤
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I drink my ☕ with 🍫
 
 <!--
