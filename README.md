@@ -4,7 +4,7 @@
 🌱 I’m currently learning more about AWS Lambda & API Gateway -->
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
 - ⚡ Fun fact: I drink my ☕ with 🍫
-- 🎧 I listen [**this**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) Spotify list while coding
+- 🎧 I listen [**this**](https://open.spotify.com/playlist/398mibXwWmr3nXMcCf1OOP?si=5f492f00d24d422a) and [**this**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) Spotify list while coding
 
 <!--
 **akinmetin/akinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
