@@ -38,6 +38,7 @@ github profile readme examples
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-yellow?style=flat-square&logo=elastic)
 ![Logstash](https://img.shields.io/badge/-Logstash-orange?style=flat-square&logo=logstash)
 ![Kibana](https://img.shields.io/badge/-Kibana-blueviolet?style=flat-square&logo=kibana)
+![Airflow](https://img.shields.io/badge/-Airflow-F85D3C?logoColor=white&style=flat-square&logo=apacheairflow)
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
