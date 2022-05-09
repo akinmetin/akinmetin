@@ -3,8 +3,8 @@
 <!--- 🔭 I’m currently developing an API project
 🌱 I’m currently learning more about AWS Lambda & API Gateway -->
 - 📫 How to reach me: [📧 E-Mail](mailto:admin@metinakin.net)
-- ⚡ Fun fact: I drink my ☕ with 🍫
-- 🎧 I listen my [**Havana Club**](https://open.spotify.com/playlist/398mibXwWmr3nXMcCf1OOP?si=5f492f00d24d422a) and [**Metal/Rock**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) Spotify lists while coding
+- ⚡ Fun fact: I drink my ☕ with 🍫 or 🍩
+- 🎧 I listen my [**Metal/Rock**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) or [**Havana Club**](https://open.spotify.com/playlist/398mibXwWmr3nXMcCf1OOP?si=5f492f00d24d422a) lists while coding
 
 <!--
 **akinmetin/akinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
