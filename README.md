@@ -2,7 +2,7 @@
 
 <!--- 🔭 I’m currently developing an API project -->
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-metinakin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/metin-akin/)](https://www.linkedin.com/in/metin-akin/)
-- 🎧 I listen my [**Metal/Rock**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) or [**Havana Club**](https://open.spotify.com/playlist/398mibXwWmr3nXMcCf1OOP?si=5f492f00d24d422a) lists while coding
+- 🎧 I listen my [**Metal/Heavy Metal**](https://open.spotify.com/playlist/0BO7n1RLSErxb4YmXSBurQ?si=457f25ac7fb24434) list while coding
 
 <!--
 **akinmetin/akinmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
