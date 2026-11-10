@@ -1,4 +1,4 @@
-# Hey there, I'm Metin Akın 👋
+# Hey there, I'm Metin Akin 👋
 
 I am a **Software Engineer** specializing in cloud-native microservices, serverless architectures, and scalable systems. My experience ranges from engineering robust data pipelines for automotive and retail giants to launching next-gen infrastructure tools.
 
